@@ -7,3 +7,4 @@ A repo to contain the slides relating to the Natural Language Processing series 
 
 [Part 2](https://github.com/Alxmrphi/machine_learning_uofa_2022/blob/main/Guest_Lecture_LanguageModels_Nov2022_Part2.pdf)
 
+Please contact me if you would like to use any of the materials.
